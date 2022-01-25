@@ -19,11 +19,9 @@ Dieses Repository hat Übungsdateien zu einigen Filmen. Der Name der Datei korre
 
 ### Autor
 
-**[Name hier eintragen]**
+**Sujeevan Vijayakumaran**
 
-_[Berufsbezeichnung hier eintragen]_
-
-Sehen Sie sich andere Kurse des Autors auf <<<<Link aktualisieren>>>> [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors?u=104) an.
+_Solutions Architect at GitLab, Git Book Author_
 
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
