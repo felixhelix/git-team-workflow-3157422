@@ -20,5 +20,5 @@ Dieses Repository hat Übungsdateien zu einigen Filmen. Der Name der Datei korre
 
 _Solutions Architect at GitLab, Git Book Author_
 
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/git-workflows-im-team-optimieren/praxisorientierter-einstieg-in-git-workflows
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQGYP1SeRgnelQ/learning-public-crop_675_1200/0/1643110620767?e=1643724000&v=beta&t=YZCzSwVWP_yUVW_UygQFazpnXU-TiBrdg9wH1K3pXw0
