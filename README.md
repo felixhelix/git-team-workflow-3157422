@@ -24,4 +24,4 @@ Dieses Repository hat Übungsdateien zu einigen Filmen. Der Name der Datei korre
 _Solutions Architect at GitLab, Git Book Author_
 
 [lil-course-url]: https://www.linkedin.com/learning/git-workflows-im-team-optimieren/praxisorientierter-einstieg-in-git-workflows
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQGYP1SeRgnelQ/learning-public-crop_675_1200/0/1643110620767?e=1643724000&v=beta&t=YZCzSwVWP_yUVW_UygQFazpnXU-TiBrdg9wH1K3pXw0
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQGYP1SeRgnelQ/learning-public-crop_675_1200/0/1643110620767?e=1646956800&v=beta&t=QRjciruCnIxmvX9ExYH3pEMa_XZBYLXJB8-UfCu15hI
