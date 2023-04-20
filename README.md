@@ -22,3 +22,7 @@ _Solutions Architect at GitLab, Git Book Author_
 
 [lil-course-url]: https://www.linkedin.com/learning/git-workflows-im-team-optimieren/praxisorientierter-einstieg-in-git-workflows
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3157422/3157422-1641825435410-16x9.jpg
+
+## Feedback
+
+Hier kann Ihr Feedback stehen :)
