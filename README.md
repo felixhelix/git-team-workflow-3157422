@@ -28,4 +28,5 @@ _Solutions Architect at GitLab, Git Book Author_
 
 ## Feedback
 
-Hier kann Ihr Feedback stehen :)
+Hier kann Ihr Feedback stehen :))
+Ich freue mich über Ihre Meinung.
